@@ -1,0 +1,5 @@
+hugchat
+discord.py
+python-dotenv
+giphypop
+requests
